@@ -1,5 +1,5 @@
 Flask==2.2.3
 flask-cors==3.0.10
-speechmatics==1.0.0
+speechmatics-python==1.14.10
 httpx==0.23.3
 werkzeug==2.2.3
